@@ -101,4 +101,4 @@ npm ERR! Please include the following file with any support request:
 npm ERR!     /home/gabriel/simplenote-electron/npm-debug.log
 
 ```
-The ruquired file is in required.sh 
+The required file is in required.sh 
