@@ -1,4 +1,4 @@
-```bash
+
 0 info it worked if it ends with ok
 1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', 'start' ]
 2 info using npm@3.5.2
@@ -44,4 +44,4 @@
 23 error     npm owner ls simplenote
 23 error There is likely additional logging output above.
 24 verbose exit [ 1, true ]
-```
+
